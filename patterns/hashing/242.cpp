@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/valid-anagram/
-// Complexity: Time: O(n) Space: O(CHAR)
+// Complexity: Time: O(n) Space: O(1)
 // 256 is used because it covers ASCII character set
 class Solution {
 public:
